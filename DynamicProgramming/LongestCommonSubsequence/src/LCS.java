@@ -30,45 +30,6 @@ public class LCS {
         // DP
         System.out.println("Length of lis is " + dp(S1, S2, m, n));
 
-        // Space optimization
-        System.out.println("Length of lis is " + spaceOptimize(S1, S2, m, n));
-    }
-
-    /**
-     * Complexity O(n^2), Space O(n)
-     * The outer loop will run from i = 1 to N and the inner loop will run from j = 0 to i and use the recurrence relation to solve the problem.
-     */
-    private static int binarySearch(int[] input) {
-        int n = input.length;
-        List<Integer> resultList = new ArrayList<>();
-
-        // Initialize the answer list with the first element of input
-        resultList.add(input[0]);
-
-        for (int i = 1; i < n; i++) {
-            if (input[i] > resultList.get(resultList.size() - 1)) {
-                // If the current number is greater than the last element of the answer list,
-                // it means we have found a longer increasing subsequence.
-                // Hence, we append the current number to the answer list.
-                resultList.add(input[i]);
-            } else {
-                // If the current number is not greater than the last element of the answer list,
-                // we perform a binary search to find the smallest element in the answer list that
-                // is greater than or equal to the current number.
-
-                int low = Collections.binarySearch(resultList, input[i]);
-
-                // We update the element at the found position with the current number.
-                // By doing this, we are maintaining a sorted order in the answer list.
-                if (low < 0) {
-                    low = -(low + 1);
-                }
-                resultList.set(low, input[i]);
-            }
-        }
-
-        // The size of the answer list represents the length of the longest increasing subsequence.
-        return resultList.size();
     }
 
     /**
