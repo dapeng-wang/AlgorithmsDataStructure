@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/AlgorithmsDataStructure.iml" filepath="$PROJECT_DIR$/AlgorithmsDataStructure.iml" />
       <module fileurl="file://$PROJECT_DIR$/Search/Binary/Binary.iml" filepath="$PROJECT_DIR$/Search/Binary/Binary.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sorting/Bubble/Bubble.iml" filepath="$PROJECT_DIR$/Sorting/Bubble/Bubble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicProgramming/ClimbingStairs/ClimbingStairs.iml" filepath="$PROJECT_DIR$/DynamicProgramming/ClimbingStairs/ClimbingStairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sorting/Heap/Heap.iml" filepath="$PROJECT_DIR$/Sorting/Heap/Heap.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sorting/Insertion/Insertion.iml" filepath="$PROJECT_DIR$/Sorting/Insertion/Insertion.iml" />
       <module fileurl="file://$PROJECT_DIR$/DynamicProgramming/Knapsack/Knapsack.iml" filepath="$PROJECT_DIR$/DynamicProgramming/Knapsack/Knapsack.iml" />
@@ -12,6 +13,8 @@
       <module fileurl="file://$PROJECT_DIR$/DynamicProgramming/LongestCommonSubsequence/LongestCommonSubsequence.iml" filepath="$PROJECT_DIR$/DynamicProgramming/LongestCommonSubsequence/LongestCommonSubsequence.iml" />
       <module fileurl="file://$PROJECT_DIR$/DynamicProgramming/LongestIncreasingSubsequence/LongestIncreasingSubsequence.iml" filepath="$PROJECT_DIR$/DynamicProgramming/LongestIncreasingSubsequence/LongestIncreasingSubsequence.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sorting/Merge/Merge.iml" filepath="$PROJECT_DIR$/Sorting/Merge/Merge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicProgramming/NonAdjacentSum/NonAdjacentSum.iml" filepath="$PROJECT_DIR$/DynamicProgramming/NonAdjacentSum/NonAdjacentSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicProgramming/Partition/Partition.iml" filepath="$PROJECT_DIR$/DynamicProgramming/Partition/Partition.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sorting/Quick/Quick.iml" filepath="$PROJECT_DIR$/Sorting/Quick/Quick.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sorting/Selection/Selection.iml" filepath="$PROJECT_DIR$/Sorting/Selection/Selection.iml" />
       <module fileurl="file://$PROJECT_DIR$/DynamicProgramming/StationTravel/StationTravel.iml" filepath="$PROJECT_DIR$/DynamicProgramming/StationTravel/StationTravel.iml" />

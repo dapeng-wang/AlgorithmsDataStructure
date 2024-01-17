@@ -1,4 +1,4 @@
-# 0-1 Knapsack
+# 0-1 Partition
 
 Given N items where each item has some weight and profit associated with it and also given a bag with capacity W, 
 [i.e., the bag can hold at most W weight in it]. 

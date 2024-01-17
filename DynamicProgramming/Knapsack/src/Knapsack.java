@@ -43,7 +43,7 @@ public class Knapsack {
                     dp[i][j] = 0;
                 } else if (weights[i - 1] <= j) {
                     dp[i][j] = Math.max(values[i - 1] + dp[i - 1][j - weights[i - 1]],
-                                        dp[i - 1][j]);
+                            dp[i - 1][j]);
                 } else {
                     dp[i][j] = dp[i - 1][j];
                 }
