@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/Search/Binary/Binary.iml" filepath="$PROJECT_DIR$/Search/Binary/Binary.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sorting/Bubble/Bubble.iml" filepath="$PROJECT_DIR$/Sorting/Bubble/Bubble.iml" />
       <module fileurl="file://$PROJECT_DIR$/DynamicProgramming/ClimbingStairs/ClimbingStairs.iml" filepath="$PROJECT_DIR$/DynamicProgramming/ClimbingStairs/ClimbingStairs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicProgramming/CuttingRod/CuttingRod.iml" filepath="$PROJECT_DIR$/DynamicProgramming/CuttingRod/CuttingRod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicProgramming/EditDistance/EditDistance.iml" filepath="$PROJECT_DIR$/DynamicProgramming/EditDistance/EditDistance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sorting/Heap/Heap.iml" filepath="$PROJECT_DIR$/Sorting/Heap/Heap.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sorting/Insertion/Insertion.iml" filepath="$PROJECT_DIR$/Sorting/Insertion/Insertion.iml" />
       <module fileurl="file://$PROJECT_DIR$/DynamicProgramming/Knapsack/Knapsack.iml" filepath="$PROJECT_DIR$/DynamicProgramming/Knapsack/Knapsack.iml" />
@@ -18,6 +20,8 @@
       <module fileurl="file://$PROJECT_DIR$/Sorting/Quick/Quick.iml" filepath="$PROJECT_DIR$/Sorting/Quick/Quick.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sorting/Selection/Selection.iml" filepath="$PROJECT_DIR$/Sorting/Selection/Selection.iml" />
       <module fileurl="file://$PROJECT_DIR$/DynamicProgramming/StationTravel/StationTravel.iml" filepath="$PROJECT_DIR$/DynamicProgramming/StationTravel/StationTravel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Traversal/Traversal.iml" filepath="$PROJECT_DIR$/Graph/Traversal/Traversal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicProgramming/WordBreak/WordBreak.iml" filepath="$PROJECT_DIR$/DynamicProgramming/WordBreak/WordBreak.iml" />
       <module fileurl="file://$PROJECT_DIR$/DynamicProgramming/coin/coin.iml" filepath="$PROJECT_DIR$/DynamicProgramming/coin/coin.iml" />
       <module fileurl="file://$PROJECT_DIR$/DynamicProgramming/coinchange/coinchange.iml" filepath="$PROJECT_DIR$/DynamicProgramming/coinchange/coinchange.iml" />
       <module fileurl="file://$PROJECT_DIR$/DynamicProgramming/fibonacci/fibonacci.iml" filepath="$PROJECT_DIR$/DynamicProgramming/fibonacci/fibonacci.iml" />

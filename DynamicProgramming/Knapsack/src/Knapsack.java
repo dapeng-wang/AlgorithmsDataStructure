@@ -4,8 +4,6 @@ import java.util.Collections;
 import java.util.List;
 
 public class Knapsack {
-    static int totalMax = 0;
-
     public static void main(String[] args) {
 
         int[] profit = new int[]{60, 100, 120};

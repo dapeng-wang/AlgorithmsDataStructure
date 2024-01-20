@@ -4,14 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f6a52a4-583f-412b-b2f9-ba470d47a58d" name="Changes" comment="feat: add DP readme">
-      <change afterPath="$PROJECT_DIR$/DynamicProgramming/ClimbingStairs/ClimbingStairs.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DynamicProgramming/NonAdjacentSum/NonAdjacentSum.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Partition/Partition.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Partition/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Partition/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Partition/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Partition/img_3.png" afterDir="false" />
+    <list default="true" id="1f6a52a4-583f-412b-b2f9-ba470d47a58d" name="Changes" comment="feat: add dp problems">
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/CuttingRod/CuttingRod.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/EditDistance/EditDistance.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/EditDistance/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/EditDistance/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/WordBreak/WordBreak.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/Traversal/Traversal.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/Traversal/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/Traversal/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/Traversal/img_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/Traversal/img_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/Traversal/img_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/Traversal/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/Traversal/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/Traversal/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/Traversal/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/Traversal/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/Traversal/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/Traversal/img_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/Traversal/img_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/Traversal/src/BreadthFirstGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/Traversal/src/BreadthFirstTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DynamicProgramming/Knapsack/Knapsack.md" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicProgramming/Knapsack/Knapsack.md" afterDir="false" />
@@ -55,7 +69,7 @@
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "11",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/dapengwang/workspaces/eth/Semester1/AlgorithmsDataStructure/DynamicProgramming/Partition",
+    "last_opened_file_path": "/Users/dapengwang/workspaces/eth/Semester1/AlgorithmsDataStructure/Graph/DepthFirst",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -70,10 +84,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Graph/DepthFirst" />
+      <recent name="$PROJECT_DIR$/DynamicProgramming/WordBreak" />
+      <recent name="$PROJECT_DIR$/DynamicProgramming/CuttingRod" />
+      <recent name="$PROJECT_DIR$/DynamicProgramming/EditDistance" />
       <recent name="$PROJECT_DIR$/DynamicProgramming/Partition" />
-      <recent name="$PROJECT_DIR$/DynamicProgramming/ClimbingStairs" />
-      <recent name="$PROJECT_DIR$/DynamicProgramming/NonAdjacentSum" />
-      <recent name="$PROJECT_DIR$/DynamicProgramming/Knapsack" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
     </key>
   </component>
   <component name="RunManager">
@@ -110,7 +128,7 @@
       <workItem from="1704650274726" duration="627000" />
       <workItem from="1704797850971" duration="153000" />
       <workItem from="1705256422255" duration="63000" />
-      <workItem from="1705256505000" duration="12294000" />
+      <workItem from="1705256505000" duration="22966000" />
     </task>
     <task id="LOCAL-00001" summary="feat: initial commit">
       <option name="closed" value="true" />
@@ -128,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705261771752</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: add dp problems">
+      <option name="closed" value="true" />
+      <created>1705498143276</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705498143277</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +163,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: initial commit" />
     <MESSAGE value="feat: add DP readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add DP readme" />
+    <MESSAGE value="feat: add dp problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add dp problems" />
   </component>
 </project>
